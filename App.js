@@ -24,11 +24,12 @@ import {
   LearnMoreLinks,
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
+import Counter from './pages/counter';
 import Login from './pages/login';
 
 
 export default function App(props){
   return (
-    <Login />
+    <Counter />
   );
 }
