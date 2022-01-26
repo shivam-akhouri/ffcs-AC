@@ -10,8 +10,10 @@ npx react-native run-android
 ## **Assignment-3**
 ### **Screen Shots**
 
+<div style="display:flex;">
   <img src= "https://raw.githubusercontent.com/shivam-akhouri/ffcs-AC/master/docs/assign-31.jpg" width="30%" height="500">
   <img src= "https://raw.githubusercontent.com/shivam-akhouri/ffcs-AC/master/docs/assign-32.jpg"  width="30%" height="500">
+</div>
 
   
 ## **Assignment-2**
